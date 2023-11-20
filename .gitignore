@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Greyblock/Saved/Logs/Greyblock.log
+Greyblock/Saved/WorldPartition/StreamingGeneration-PIE-00002f14-2023-11-20T15.58.06.512Z.log
+Greyblock/Saved/Logs/Greyblock.log
+*.log
