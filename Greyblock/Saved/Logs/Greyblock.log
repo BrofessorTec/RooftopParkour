@@ -2140,3 +2140,385 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.27-03.58.30:865][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
 [2023.11.27-03.58.30:875][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
 [2023.11.27-03.58.30:884][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 916 ms)
+[2023.11.27-03.59.17:241][771]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.11.27-03.59.17:254][771]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.11.27-03.59.17:265][771]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.11.27-03.59.17:274][772]LogAutomationController: Ignoring very large delta of 8.90 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.27-03.59.17:286][772]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.11.27-03.59.20:606][983]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> HealthWidget
+[2023.11.27-03.59.20:657][983]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.11.27-03.59.22:115][ 73]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/HealthWidget.HealthWidget
+[2023.11.27-03.59.22:117][ 73]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-03.59.22:117][ 73]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-03.59.22:138][ 73]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-03.59.22:138][ 73]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-03.59.22:148][ 73]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.11.27-03.59.23:876][ 73]LogSlate: Took 0.001171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.11.27-03.59.23:891][ 73]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.11.27-03.59.23:893][ 73]LogSlate: Took 0.000747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.11.27-04.00.37:731][  8]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.27-04.03.01:821][ 24]BlueprintLog: New page: Compile HealthWidget
+[2023.11.27-04.03.01:875][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.27-04.03.03:759][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-04.03.03:835][119]LogSavePackage: Moving output files for package: /Game/UI/HealthWidget
+[2023.11.27-04.03.03:835][119]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/HealthWidget5909F5DC4EB9ED43F88BA1BED36E8070.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/UI/HealthWidget.uasset'
+[2023.11.27-04.03.03:849][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 1.00 sec)
+[2023.11.27-04.03.03:855][119]AssetCheck: New page: Asset Save: HealthWidget
+[2023.11.27-04.03.03:855][119]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/HealthWidget.HealthWidget
+[2023.11.27-04.03.40:775][334]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.27-04.03.59:516][447]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.27-04.04.07:048][895]BlueprintLog: New page: Compile HealthWidget
+[2023.11.27-04.04.07:092][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.11.27-04.04.08:341][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-04.04.08:414][963]LogSavePackage: Moving output files for package: /Game/UI/HealthWidget
+[2023.11.27-04.04.08:420][963]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/HealthWidget20A9C247443ADD161BF8A7ADE2B9AD2F.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/UI/HealthWidget.uasset'
+[2023.11.27-04.04.08:430][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.09 sec)
+[2023.11.27-04.04.08:437][963]AssetCheck: New page: Asset Save: HealthWidget
+[2023.11.27-04.04.08:437][963]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/HealthWidget.HealthWidget
+[2023.11.27-04.04.26:336][307]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-04.04.31:913][373]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.27-04.04.31:914][373]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-04.04.31:914][373]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-04.04.32:323][375]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-04.04.36:428][522]LogMeshUtilities: Finished distance field build in 4.4s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, PhAT_FloorBox
+[2023.11.27-04.04.41:993][773]LogSlate: Took 0.000823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.11.27-04.04.49:588][905]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.27-04.04.49:672][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.27-04.04.51:443][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-04.04.51:510][997]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-04.04.51:575][997]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.27-04.04.51:577][997]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/BP_ThirdPersonCharacterBD0411C548E49ADE8B2F3084BA9394AE.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.27-04.04.51:592][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 1.24 sec)
+[2023.11.27-04.04.51:599][997]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.27-04.04.51:599][997]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.27-04.05.08:092][976]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.27-04.05.08:180][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.27-04.05.09:086][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-04.05.09:184][ 22]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.27-04.05.09:187][ 22]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/BP_ThirdPersonCharacter003C657448ACB72B1920069B9663DECA.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.27-04.05.09:197][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1.35 sec)
+[2023.11.27-04.05.09:204][ 22]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.27-04.05.09:204][ 22]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.27-04.05.22:794][823]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.27-04.05.22:882][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.27-04.05.23:574][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-04.05.23:674][854]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.27-04.05.23:676][854]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/BP_ThirdPersonCharacter128DA2BE421CD92B3F0ABBAAA68CDD41.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.27-04.05.23:688][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 1.47 sec)
+[2023.11.27-04.05.23:693][854]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.27-04.05.23:693][854]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.27-04.07.14:393][606]BlueprintLog: New page: Compile HealthWidget
+[2023.11.27-04.07.14:441][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.11.27-04.07.15:248][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-04.07.15:307][650]LogSavePackage: Moving output files for package: /Game/UI/HealthWidget
+[2023.11.27-04.07.15:309][650]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/HealthWidget9FF6953F4C32E0FE91DC0081926BBC06.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/UI/HealthWidget.uasset'
+[2023.11.27-04.07.15:320][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.54 sec)
+[2023.11.27-04.07.15:326][650]AssetCheck: New page: Asset Save: HealthWidget
+[2023.11.27-04.07.15:326][650]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/HealthWidget.HealthWidget
+[2023.11.27-04.07.59:539][869]BlueprintLog: New page: Compile HealthWidget
+[2023.11.27-04.07.59:588][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.11.27-04.08.00:250][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-04.08.00:326][908]LogSavePackage: Moving output files for package: /Game/UI/HealthWidget
+[2023.11.27-04.08.00:328][908]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/HealthWidgetF89B9AA240B2D3AF138190A32A5C52ED.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/UI/HealthWidget.uasset'
+[2023.11.27-04.08.00:340][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.63 sec)
+[2023.11.27-04.08.00:345][908]AssetCheck: New page: Asset Save: HealthWidget
+[2023.11.27-04.08.00:345][908]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/HealthWidget.HealthWidget
+[2023.11.27-04.08.55:372][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-04.08.55:483][397]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.27-04.08.55:485][397]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/BP_ThirdPersonCharacter7B205ADB495C1D5DCDAAC195EB2E9526.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.27-04.08.55:496][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 1.75 sec)
+[2023.11.27-04.08.55:503][397]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.27-04.08.55:503][397]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.27-04.09.06:185][ 53]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.27-04.09.06:269][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.27-04.09.07:447][118]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-04.09.07:547][118]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.27-04.09.07:549][118]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/BP_ThirdPersonCharacterDB4B143A411375233D130D8DAAA1B036.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.27-04.09.07:560][118]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 1.87 sec)
+[2023.11.27-04.09.07:566][118]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.27-04.09.07:566][118]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.27-04.09.11:550][359]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.27-04.09.11:639][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.27-04.09.12:459][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-04.09.12:564][402]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.27-04.09.12:565][402]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/BP_ThirdPersonCharacter42C13E1344690C4AD89D3C99BBB99FBB.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.27-04.09.12:577][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.98 sec)
+[2023.11.27-04.09.12:583][402]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.27-04.09.12:583][402]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.27-04.09.57:193][967]BlueprintLog: New page: Compile HealthWidget
+[2023.11.27-04.09.57:240][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.11.27-04.09.57:970][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-04.09.58:059][  5]LogSavePackage: Moving output files for package: /Game/UI/HealthWidget
+[2023.11.27-04.09.58:062][  5]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/HealthWidgetF121FB6D49C2AF1D4A1B628005F135C5.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/UI/HealthWidget.uasset'
+[2023.11.27-04.09.58:073][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 2.09 sec)
+[2023.11.27-04.09.58:079][  5]AssetCheck: New page: Asset Save: HealthWidget
+[2023.11.27-04.09.58:079][  5]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/HealthWidget.HealthWidget
+[2023.11.27-04.12.33:709][315]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.27-04.12.33:788][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.27-04.12.34:571][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-04.12.34:672][357]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.27-04.12.34:674][357]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/BP_ThirdPersonCharacterE2B1BA104D1ABE1072651CBE44DCA48F.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.27-04.12.34:684][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 2.20 sec)
+[2023.11.27-04.12.34:690][357]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.27-04.12.34:690][357]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.27-04.12.42:081][577]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.27-04.12.42:092][577]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.27-04.12.42:096][577]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.27-04.12.42:096][577]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.27-04.12.42:096][577]LogWorldPartition: Display: GetPartitionedActors took 22 us (total: 553 us)
+[2023.11.27-04.12.42:096][577]LogWorldPartition: Display: GenerateStreaming took 604 us (total: 5 ms)
+[2023.11.27-04.12.42:097][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-04.12.42:097][577]PIE: New page: PIE session: ThirdPersonMap (Nov 26, 2023, 6:12:42 PM)
+[2023.11.27-04.12.42:097][577]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.11.27-04.12.42:113][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015779s)
+[2023.11.27-04.12.42:113][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.015841s)
+[2023.11.27-04.12.42:113][577]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-04.12.42:113][577]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-04.12.42:113][577]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.11.27-04.12.42:114][577]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.27-04.12.42:114][577]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.27-04.12.42:114][577]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.27-04.12.42:118][577]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.11.27-04.12.42:118][577]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 514 ms)
+[2023.11.27-04.12.42:118][577]LogPlayLevel: PIE: World Init took: (0.005246s)
+[2023.11.27-04.12.42:143][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.27-04.12.42:145][577]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.11.27-04.12.42:145][577]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-04.12.42:145][577]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-04.12.42:145][577]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-04.12.42:145][577]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-04.12.42:145][577]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-04.12.42:145][577]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-04.12.42:145][577]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-04.12.42:145][577]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-04.12.42:146][577]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-04.12.42:146][577]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-04.12.42:146][577]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-04.12.42:147][577]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-04.12.42:217][577]LogAudioMixer: Display: Using Audio Hardware Device 2460G4 (NVIDIA High Definition Audio)
+[2023.11.27-04.12.42:217][577]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-04.12.42:217][577]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-04.12.42:217][577]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-04.12.42:219][577]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.11.27-04.12.42:219][577]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.11.27-04.12.42:220][577]LogInit: FAudioDevice initialized with ID 10.
+[2023.11.27-04.12.42:220][577]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.11.27-04.12.42:221][577]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.11.27-04.12.42:221][577]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonMap'.
+[2023.11.27-04.12.42:221][577]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.27-04.12.42:227][577]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.27-04.12.42:233][577]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.11.26-23.12.42
+[2023.11.27-04.12.42:233][577]LogWorld: Bringing up level for play took: 0.006522
+[2023.11.27-04.12.42:236][577]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.11.27-04.12.42:242][577]PIE: Server logged in
+[2023.11.27-04.12.42:242][577]PIE: Play in editor total start time 0.151 seconds.
+[2023.11.27-04.12.42:445][577]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.42:446][577]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.42:446][577]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.42:447][577]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.42:447][577]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.42:448][577]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.42:449][577]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.42:461][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.42:462][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.42:462][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.42:463][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.42:464][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.42:464][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.42:465][578]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.51:795][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-04.12.51:796][ 99]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.11.27-04.12.51:796][ 99]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-04.12.51:796][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-04.12.51:796][ 99]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.11.27-04.12.51:808][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-04.12.51:813][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-04.12.51:843][ 99]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-04.12.51:844][ 99]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.11.27-04.12.51:844][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.27-04.12.51:846][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.27-04.12.51:852][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-04.12.51:855][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.11.27-04.12.51:884][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.51:908][100]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.11.27-04.12.51:970][100]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.12.56:507][260]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2023.11.27-04.13.09:922][962]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.27-04.13.09:930][962]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.27-04.13.09:933][962]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.27-04.13.09:933][962]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.27-04.13.09:933][962]LogWorldPartition: Display: GetPartitionedActors took 20 us (total: 574 us)
+[2023.11.27-04.13.09:934][962]LogWorldPartition: Display: GenerateStreaming took 566 us (total: 6 ms)
+[2023.11.27-04.13.09:934][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-04.13.09:934][962]PIE: New page: PIE session: ThirdPersonMap (Nov 26, 2023, 6:13:09 PM)
+[2023.11.27-04.13.09:934][962]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.11.27-04.13.09:955][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020546s)
+[2023.11.27-04.13.09:955][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.020592s)
+[2023.11.27-04.13.09:955][962]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-04.13.09:955][962]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-04.13.09:955][962]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.11.27-04.13.09:956][962]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.27-04.13.09:956][962]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.27-04.13.09:956][962]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.27-04.13.09:960][962]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.11.27-04.13.09:961][962]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 518 ms)
+[2023.11.27-04.13.09:961][962]LogPlayLevel: PIE: World Init took: (0.005642s)
+[2023.11.27-04.13.09:987][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.27-04.13.09:989][962]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.11.27-04.13.09:990][962]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-04.13.09:990][962]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-04.13.09:990][962]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-04.13.09:990][962]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-04.13.09:990][962]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-04.13.09:990][962]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-04.13.09:990][962]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-04.13.09:990][962]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-04.13.09:990][962]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-04.13.09:990][962]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-04.13.09:990][962]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-04.13.09:992][962]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-04.13.10:056][962]LogAudioMixer: Display: Using Audio Hardware Device 2460G4 (NVIDIA High Definition Audio)
+[2023.11.27-04.13.10:056][962]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-04.13.10:056][962]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-04.13.10:056][962]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-04.13.10:058][962]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.11.27-04.13.10:058][962]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.11.27-04.13.10:060][962]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.11.27-04.13.10:060][962]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.11.27-04.13.10:060][962]LogInit: FAudioDevice initialized with ID 11.
+[2023.11.27-04.13.10:060][962]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonMap'.
+[2023.11.27-04.13.10:060][962]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.11.27-04.13.10:062][962]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.27-04.13.10:068][962]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.11.26-23.13.10
+[2023.11.27-04.13.10:068][962]LogWorld: Bringing up level for play took: 0.005568
+[2023.11.27-04.13.10:070][962]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.11.27-04.13.10:074][962]PIE: Server logged in
+[2023.11.27-04.13.10:075][962]PIE: Play in editor total start time 0.145 seconds.
+[2023.11.27-04.13.10:266][962]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.13.10:267][962]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.13.10:267][962]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.13.10:267][962]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.13.10:268][962]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.13.10:269][962]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.13.10:269][962]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.13.10:293][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.13.10:293][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.13.10:294][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.13.10:294][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.13.10:294][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.13.10:295][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.13.10:295][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.13.19:106][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-04.13.19:106][437]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.11.27-04.13.19:106][437]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-04.13.19:107][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-04.13.19:107][437]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.11.27-04.13.19:110][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-04.13.19:115][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-04.13.19:141][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-04.13.19:141][437]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.11.27-04.13.19:141][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.27-04.13.19:143][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.27-04.13.19:152][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.11.27-04.13.19:180][437]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.13.19:202][438]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.11.27-04.13.19:217][438]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.14.11:442][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.27-04.14.11:445][754]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.035
+[2023.11.27-04.14.11:446][754]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/HPUIEmpty] ([1] browsable assets)...
+[2023.11.27-04.14.11:452][754]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/HPUIEmpty.HPUIEmpty]
+[2023.11.27-04.14.11:452][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HPUIEmpty]
+[2023.11.27-04.14.11:454][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/HPUIEmpty_Auto2
+[2023.11.27-04.14.11:454][754]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/HPUIEmpty_Auto268C7938244E54D04CE109CB2A0D864AA.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/Autosaves/Game/UI/HPUIEmpty_Auto2.uasset'
+[2023.11.27-04.14.11:456][754]LogFileHelpers: Auto-saving content packages took 0.011
+[2023.11.27-04.24.23:569][926]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.27-04.24.23:655][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.27-04.24.24:198][941]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.27-04.24.24:281][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.27-04.24.25:418][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-04.24.25:535][994]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.27-04.24.25:537][994]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/BP_ThirdPersonCharacter88F7A0874F516918AB766FB665F50EB5.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.27-04.24.25:547][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 2.33 sec)
+[2023.11.27-04.24.25:554][994]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.27-04.24.25:554][994]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.11.27-04.24.40:676][216]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.27-04.24.40:683][216]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.27-04.24.40:687][216]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.27-04.24.40:687][216]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.27-04.24.40:687][216]LogWorldPartition: Display: GetPartitionedActors took 23 us (total: 598 us)
+[2023.11.27-04.24.40:687][216]LogWorldPartition: Display: GenerateStreaming took 615 us (total: 6 ms)
+[2023.11.27-04.24.40:688][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-04.24.40:688][216]PIE: New page: PIE session: ThirdPersonMap (Nov 26, 2023, 6:24:40 PM)
+[2023.11.27-04.24.40:688][216]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.11.27-04.24.40:711][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022741s)
+[2023.11.27-04.24.40:711][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.022780s)
+[2023.11.27-04.24.40:711][216]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-04.24.40:711][216]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-04.24.40:711][216]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.11.27-04.24.40:712][216]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.27-04.24.40:712][216]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.27-04.24.40:712][216]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.27-04.24.40:717][216]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.11.27-04.24.40:717][216]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 523 ms)
+[2023.11.27-04.24.40:717][216]LogPlayLevel: PIE: World Init took: (0.006307s)
+[2023.11.27-04.24.40:747][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.11.27-04.24.40:749][216]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.11.27-04.24.40:749][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-04.24.40:749][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-04.24.40:749][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-04.24.40:749][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-04.24.40:749][216]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-04.24.40:749][216]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-04.24.40:749][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-04.24.40:749][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-04.24.40:750][216]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-04.24.40:750][216]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-04.24.40:750][216]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-04.24.40:752][216]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-04.24.40:829][216]LogAudioMixer: Display: Using Audio Hardware Device 2460G4 (NVIDIA High Definition Audio)
+[2023.11.27-04.24.40:829][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-04.24.40:829][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-04.24.40:829][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-04.24.40:830][216]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.11.27-04.24.40:830][216]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.11.27-04.24.40:832][216]LogInit: FAudioDevice initialized with ID 12.
+[2023.11.27-04.24.40:832][216]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.11.27-04.24.40:832][216]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.11.27-04.24.40:832][216]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonMap'.
+[2023.11.27-04.24.40:832][216]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.11.27-04.24.40:835][216]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.11.27-04.24.40:842][216]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.11.26-23.24.40
+[2023.11.27-04.24.40:842][216]LogWorld: Bringing up level for play took: 0.007474
+[2023.11.27-04.24.40:844][216]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.11.27-04.24.40:851][216]PIE: Server logged in
+[2023.11.27-04.24.40:852][216]PIE: Play in editor total start time 0.169 seconds.
+[2023.11.27-04.24.41:130][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.24.41:130][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.24.41:131][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.24.41:131][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.24.41:131][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.24.41:132][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.24.41:133][216]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.24.41:147][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.24.41:148][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.24.41:148][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.24.41:148][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.24.41:149][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.24.41:149][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.24.41:150][217]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.24.57:258][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-04.24.57:258][967]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.11.27-04.24.57:258][967]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-04.24.57:259][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-04.24.57:259][967]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.11.27-04.24.57:282][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-04.24.57:286][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-04.24.57:318][967]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-04.24.57:318][967]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.11.27-04.24.57:318][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.27-04.24.57:320][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.27-04.24.57:325][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-04.24.57:330][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.27-04.24.57:363][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.24.57:386][968]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.11.27-04.24.57:402][968]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
