@@ -2522,3 +2522,23 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.27-04.24.57:363][967]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.11.27-04.24.57:386][968]LogPlayLevel: Display: Destroying online subsystem :Context_19
 [2023.11.27-04.24.57:402][968]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.29.48:179][358]LogEditorTransaction: Undo Move Node
+[2023.11.27-04.29.48:313][358]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.29.49:372][395]LogEditorTransaction: Undo Resize Node
+[2023.11.27-04.29.49:447][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.30.01:852][952]LogEditorTransaction: Undo Move Node
+[2023.11.27-04.30.01:996][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.30.02:203][955]LogEditorTransaction: Undo Move Node
+[2023.11.27-04.30.02:330][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.30.02:574][963]LogEditorTransaction: Undo Resize Node
+[2023.11.27-04.30.02:664][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.30.03:098][982]LogEditorTransaction: Undo Move Node
+[2023.11.27-04.30.03:182][982]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.27-04.30.19:229][697]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.11.27-04.30.19:332][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.27-04.30.20:178][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-04.30.20:292][730]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.11.27-04.30.20:295][730]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/BP_ThirdPersonCharacter705253E4492A1C24EA82719A286B1DEA.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.11.27-04.30.20:307][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 2.46 sec)
+[2023.11.27-04.30.20:314][730]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.11.27-04.30.20:314][730]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
