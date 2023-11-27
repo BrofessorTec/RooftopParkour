@@ -2091,3 +2091,52 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.27-03.29.55:280][707]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D5471290CF33C001_1924971897
 [2023.11.27-03.29.55:280][707]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D5471290CF33C001_1924969896
 [2023.11.27-03.29.55:280][707]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_38D5471290CF33C001_1924966895
+[2023.11.27-03.30.58:838][ 87]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.11.27-03.41.07:163][911]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2460G4 (NVIDIA High Definition Audio), InstanceID=1
+[2023.11.27-03.41.07:318][911]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12044
+[2023.11.27-03.41.07:992][913]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{35a889f2-2b22-4c04-864c-427c0b9ae15e}, Name=2460G4 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=431.97
+[2023.11.27-03.41.07:992][913]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.27-03.41.07:995][913]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.27-03.46.32:607][886]LogDerivedDataCache: C:/Users/Tyler/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.182 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 749 files in 1216 folders with total size 12 MiB.
+[2023.11.27-03.56.34:790][692]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.11.27-03.56.34:792][692]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.11.27-03.56.56:020][ 48]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.11.27-03.57.11:552][762]LogInterchangeEngine: [Pending] Importing
+[2023.11.27-03.57.11:552][762]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Tyler/...1500-GameDesignHPUIExport.png]
+[2023.11.27-03.57.11:601][763]LogInterchangeEngine: [Pending] Importing
+[2023.11.27-03.57.11:602][763]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.11.27-03.57.11:819][763]LogTexture: Display: Building textures: /Game/UI/HPUIExport.HPUIExport (BGRA8, 486x113 x1x1x1) (Required Memory Estimate: 1.668633 MB), EncodeSpeed: Fast
+[2023.11.27-03.57.11:874][763]LogInterchangeEngine: [Success] Import Done
+[2023.11.27-03.57.11:900][764]LogInterchangeEngine: [Success] Import Done
+[2023.11.27-03.57.25:481][909]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/HPUIExport.HPUIExport
+[2023.11.27-03.57.25:978][909]LogViewport: Scene viewport resized to 1424x898, mode Windowed.
+[2023.11.27-03.57.57:209][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.27-03.57.57:210][339]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2023.11.27-03.57.57:212][339]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/HPUIExport] ([1] browsable assets)...
+[2023.11.27-03.57.57:215][339]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/HPUIExport.HPUIExport]
+[2023.11.27-03.57.57:216][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/HPUIExport]
+[2023.11.27-03.57.57:222][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/HPUIExport_Auto1
+[2023.11.27-03.57.57:222][339]LogSavePackage: Moving 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/HPUIExport_Auto16AE1910D4EBD39B28C0C978FAEBA8B70.tmp' to 'C:/Users/Tyler/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/Autosaves/Game/UI/HPUIExport_Auto1.uasset'
+[2023.11.27-03.57.57:224][339]LogFileHelpers: Auto-saving content packages took 0.014
+[2023.11.27-03.57.59:286][409]LogSlate: Window 'HPUIExport' being destroyed
+[2023.11.27-03.57.59:302][409]LogSlate: Window 'HPUIExport' being destroyed
+[2023.11.27-03.58.05:414][598]LogInterchangeEngine: [Pending] Importing
+[2023.11.27-03.58.05:414][598]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Tyler/...1500-GameDesignHPUIEmpty.png]
+[2023.11.27-03.58.05:417][598]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.11.27-03.58.05:424][599]LogTexture: Display: Building textures: /Game/UI/HPUIEmpty.HPUIEmpty (BGRA8, 486x113 x1x1x1) (Required Memory Estimate: 1.668633 MB), EncodeSpeed: Fast
+[2023.11.27-03.58.05:515][599]LogInterchangeEngine: [Success] Import Done
+[2023.11.27-03.58.05:531][599]LogInterchangeEngine: [Success] Import Done
+[2023.11.27-03.58.23:456][819]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/HPUIExport.HPUIExport
+[2023.11.27-03.58.23:589][819]LogViewport: Scene viewport resized to 1424x898, mode Windowed.
+[2023.11.27-03.58.24:674][883]LogSlate: Window 'HPUIExport' being destroyed
+[2023.11.27-03.58.24:697][883]LogSlate: Window 'HPUIExport' being destroyed
+[2023.11.27-03.58.25:411][925]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/HPUIEmpty.HPUIEmpty
+[2023.11.27-03.58.25:540][925]LogViewport: Scene viewport resized to 1424x902, mode Windowed.
+[2023.11.27-03.58.25:630][926]LogViewport: Scene viewport resized to 1424x898, mode Windowed.
+[2023.11.27-03.58.27:379][ 33]LogSlate: Window 'HPUIEmpty' being destroyed
+[2023.11.27-03.58.27:400][ 33]LogSlate: Window 'HPUIEmpty' being destroyed
+[2023.11.27-03.58.30:789][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-03.58.30:855][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.11.27-03.58.30:865][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.11.27-03.58.30:875][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.11.27-03.58.30:884][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 916 ms)
