@@ -4529,3 +4529,582 @@ Make sure 'HealthKit_C' has been compiled for  Get HealthWidget REF
 [2023.12.04-21.19.43:624][ 85]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
 [2023.12.04-21.19.43:625][ 85]LogSavePackage: Moving '../../../../../../Users/campbellt5/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/BP_ThirdPersonCharacter_Auto4653677A249F5FE455DA438A65E2BF193.tmp' to '../../../../../../Users/campbellt5/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
 [2023.12.04-21.19.43:626][ 85]LogFileHelpers: Auto-saving content packages took 0.134
+[2023.12.04-21.20.21:288][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.12.04-21.20.21:460][848]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-21.20.22:835][928]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/HealthKit_2.HealthKit_2
+[2023.12.04-21.20.22:835][928]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-21.20.22:835][928]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-21.20.43:705][484]LogEditorTransaction: Undo Break Pin Links
+[2023.12.04-21.20.43:771][484]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.20.44:581][520]LogEditorTransaction: Undo Break Pin Links
+[2023.12.04-21.20.44:616][520]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.21.29:762][945]LogViewport: Scene viewport resized to 1331x745, mode Windowed.
+[2023.12.04-21.21.52:689][454]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:690][454]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:708][455]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:708][455]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:708][455]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:725][456]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:726][456]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:726][456]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:742][457]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:743][457]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:743][457]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:759][458]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:760][458]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:760][458]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:775][459]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:776][459]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:776][459]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:792][460]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:793][460]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:793][460]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:809][461]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:810][461]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:810][461]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:826][462]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:826][462]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:826][462]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:843][463]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:843][463]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:844][463]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:862][464]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:862][464]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:862][464]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:878][465]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:879][465]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:879][465]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:896][466]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:896][466]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:896][466]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:913][467]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:913][467]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:914][467]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:931][468]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.52:931][468]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:267][488]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:268][488]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:284][489]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:285][489]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:285][489]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:301][490]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:301][490]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:301][490]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:321][491]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:321][491]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:321][491]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:337][492]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:338][492]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:338][492]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:355][493]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:355][493]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:355][493]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:372][494]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:373][494]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:373][494]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:390][495]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:391][495]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:391][495]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:407][496]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:407][496]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:408][496]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:424][497]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:424][497]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:424][497]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:441][498]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:441][498]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:441][498]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:458][499]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:459][499]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:459][499]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:475][500]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:476][500]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:476][500]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:492][501]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:493][501]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:493][501]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:510][502]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:510][502]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:510][502]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:530][503]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:530][503]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:530][503]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:547][504]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:547][504]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:547][504]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:564][505]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:564][505]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:564][505]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:581][506]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:581][506]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:581][506]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:597][507]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:598][507]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:598][507]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:615][508]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:615][508]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:615][508]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:633][509]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:633][509]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:633][509]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:650][510]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:650][510]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:651][510]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:667][511]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:667][511]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:667][511]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:683][512]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:684][512]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:684][512]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:700][513]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:701][513]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:701][513]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:718][514]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:718][514]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:718][514]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:735][515]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.21.53:735][515]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2023.12.04-21.22.10:358][549]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:358][549]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:376][550]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:377][550]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:377][550]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:394][551]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:395][551]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:395][551]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:411][552]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:411][552]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:412][552]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:430][553]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:431][553]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:431][553]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:447][554]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:447][554]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:447][554]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:464][555]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:465][555]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:465][555]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:482][556]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:482][556]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:482][556]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:499][557]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:499][557]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:499][557]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:516][558]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:516][558]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:516][558]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:533][559]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:533][559]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:533][559]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:551][560]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:552][560]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:552][560]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:569][561]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:569][561]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:570][561]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:586][562]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:587][562]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:587][562]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:604][563]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:604][563]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:605][563]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:621][564]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:622][564]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:622][564]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:639][565]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:639][565]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:639][565]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:657][566]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:657][566]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:657][566]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:675][567]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:675][567]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:675][567]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:692][568]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:693][568]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:693][568]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:710][569]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:711][569]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:711][569]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:728][570]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:729][570]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:729][570]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:746][571]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:746][571]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:747][571]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:764][572]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.10:764][572]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.HealthKit_2_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.000 Z=0.500
+[2023.12.04-21.22.16:238][910]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2023.12.04-21.22.18:722][ 69]LogEditorTransaction: Undo Make New Scene Root
+[2023.12.04-21.22.18:798][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.22.49:391][998]LogContentBrowser: Deferred new asset file creation: HealthColor_Inst
+[2023.12.04-21.22.49:408][998]LogContentBrowser: Creating deferred item: HealthColor_Inst
+[2023.12.04-21.22.49:425][999]LogContentBrowser: Renaming the item being created (Deferred Item: HealthColor_Inst).
+[2023.12.04-21.22.53:095][244]LogContentBrowser: Attempting asset rename: HealthColor_Inst -> CoinColor
+[2023.12.04-21.22.53:096][244]LogContentBrowser: End creating deferred item HealthColor_Inst
+[2023.12.04-21.22.54:254][313]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/CoinColor.CoinColor
+[2023.12.04-21.22.54:256][313]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-21.22.54:256][313]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-21.22.54:394][313]LogViewport: Scene viewport resized to 1556x772, mode Windowed.
+[2023.12.04-21.23.14:500][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-21.23.14:620][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.12.04-21.23.14:647][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.12.04-21.23.14:649][727]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Materials/CoinColor
+[2023.12.04-21.23.14:649][727]LogSavePackage: Moving '../../../../../../Users/campbellt5/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/CoinColorFC69D3BB4BFD8307642EC1A776E5E3FF.tmp' to '../../../../../../Users/campbellt5/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/LevelPrototyping/Materials/CoinColor.uasset'
+[2023.12.04-21.23.14:660][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 2.53 sec)
+[2023.12.04-21.23.14:665][727]AssetCheck: New page: Asset Save: CoinColor
+[2023.12.04-21.23.14:665][727]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/LevelPrototyping/Materials/CoinColor.CoinColor
+[2023.12.04-21.23.18:501][ 18]LogSlate: Window 'CoinColor' being destroyed
+[2023.12.04-21.23.18:508][ 18]LogSlate: Window 'CoinColor' being destroyed
+[2023.12.04-21.23.18:511][ 18]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-21.23.18:511][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-21.23.18:560][ 18]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.04-21.23.18:560][ 18]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-21.23.18:560][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-21.23.18:595][ 18]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.04-21.23.18:595][ 18]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-21.23.18:595][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-21.23.18:705][ 18]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.04-21.23.18:705][ 18]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-21.23.18:705][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-21.23.18:746][ 18]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-21.23.18:746][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-21.23.24:210][443]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/HealthKit_2.HealthKit_2
+[2023.12.04-21.23.24:211][443]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-21.23.24:211][443]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-21.23.26:098][565]LogViewport: Scene viewport resized to 1331x587, mode Windowed.
+[2023.12.04-21.23.30:624][856]BlueprintLog: New page: Compile HealthKit_2
+[2023.12.04-21.23.30:683][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.04-21.23.31:490][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-21.23.31:567][905]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/HealthKit_2
+[2023.12.04-21.23.31:567][905]LogSavePackage: Moving '../../../../../../Users/campbellt5/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/HealthKit_2F78EBD3F49D745EA7C0FC0BAE79FA383.tmp' to '../../../../../../Users/campbellt5/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/ThirdPerson/Blueprints/HealthKit_2.uasset'
+[2023.12.04-21.23.31:578][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 2.62 sec)
+[2023.12.04-21.23.31:583][905]AssetCheck: New page: Asset Save: HealthKit_2
+[2023.12.04-21.23.31:583][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/HealthKit_2.HealthKit_2
+[2023.12.04-21.23.50:020][369]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/HealthKit_2.HealthKit_2_C
+[2023.12.04-21.23.50:020][369]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/HealthKit_2.HealthKit_2_C
+[2023.12.04-21.23.50:022][369]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/HealthKit_2.HealthKit_2 as actor: HealthKit_2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.HealthKit_2_C_0
+[2023.12.04-21.23.50:025][369]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/HealthKit_2.HealthKit_2 as actor: HealthKit_2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.HealthKit_2_C_0
+[2023.12.04-21.23.50:930][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/HealthKit_2.HealthKit_2_C
+[2023.12.04-21.23.50:930][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/HealthKit_2.HealthKit_2_C
+[2023.12.04-21.23.50:935][448]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/HealthKit_2.HealthKit_2 as actor: HealthKit_2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.HealthKit_2_C_UAID_A4BB6D4C2323A3C201_1226629728
+[2023.12.04-21.23.50:937][448]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/HealthKit_2.HealthKit_2 as actor: HealthKit_2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.HealthKit_2_C_UAID_A4BB6D4C2323A3C201_1226629728
+[2023.12.04-21.23.54:786][819]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.04-21.23.54:790][819]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.04-21.23.54:790][819]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.04-21.23.54:790][819]LogWorldPartition: Display: GetPartitionedActors took 12 us (total: 385 us)
+[2023.12.04-21.23.54:790][819]LogWorldPartition: Display: GenerateStreaming took 543 us (total: 16 ms)
+[2023.12.04-21.23.54:791][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-21.23.54:791][819]PIE: New page: PIE session: ThirdPersonMap (Dec 4, 2023, 11:23:54 AM)
+[2023.12.04-21.23.54:828][819]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.04-21.23.54:847][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019888s)
+[2023.12.04-21.23.54:847][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.019925s)
+[2023.12.04-21.23.54:847][819]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-21.23.54:847][819]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-21.23.54:848][819]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.12.04-21.23.54:848][819]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.04-21.23.54:848][819]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.04-21.23.54:848][819]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.12.04-21.23.54:854][819]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.12.04-21.23.54:854][819]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 733 ms)
+[2023.12.04-21.23.54:854][819]LogPlayLevel: PIE: World Init took: (0.006465s)
+[2023.12.04-21.23.54:880][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.04-21.23.54:885][819]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.12.04-21.23.54:885][819]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-21.23.54:885][819]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-21.23.54:885][819]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-21.23.54:885][819]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-21.23.54:885][819]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.04-21.23.54:885][819]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-21.23.54:885][819]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.04-21.23.54:885][819]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-21.23.54:886][819]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-21.23.54:886][819]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-21.23.54:886][819]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-21.23.54:888][819]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-21.23.54:902][819]LogAudioMixer: Display: Using Audio Hardware Device DELL U3415W (NVIDIA High Definition Audio)
+[2023.12.04-21.23.54:903][819]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-21.23.54:903][819]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-21.23.54:903][819]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-21.23.54:903][819]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.12.04-21.23.54:903][819]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.12.04-21.23.54:905][819]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.12.04-21.23.54:905][819]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.12.04-21.23.54:905][819]LogInit: FAudioDevice initialized with ID 30.
+[2023.12.04-21.23.54:905][819]LogAudio: Display: Audio Device (ID: 30) registered with world 'ThirdPersonMap'.
+[2023.12.04-21.23.54:905][819]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2023.12.04-21.23.54:908][819]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.04-21.23.54:915][819]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.12.04-16.23.54
+[2023.12.04-21.23.54:915][819]LogWorld: Bringing up level for play took: 0.007192
+[2023.12.04-21.23.54:917][819]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2023.12.04-21.23.54:924][819]LogScript: Warning: Script Msg: The widget 'HealthWidget_C_0' was already added to the screen.
+[2023.12.04-21.23.54:924][819]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2023.12.04-21.23.54:924][819]PIE: Server logged in
+[2023.12.04-21.23.54:925][819]PIE: Play in editor total start time 0.138 seconds.
+[2023.12.04-21.23.55:104][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:104][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:105][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:105][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:106][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:106][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:107][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:107][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:108][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:108][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:108][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:109][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:121][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:122][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:122][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:123][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:123][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:123][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:124][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:124][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:125][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:125][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:125][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.55:126][820]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.57:634][ 60]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.23.59:038][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-21.23.59:038][194]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.04-21.23.59:038][194]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-21.23.59:039][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-21.23.59:039][194]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.12.04-21.23.59:042][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-21.23.59:047][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-21.23.59:073][194]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-21.23.59:074][194]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2023.12.04-21.23.59:074][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.12.04-21.23.59:076][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.12.04-21.23.59:080][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-21.23.59:084][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.12.04-21.23.59:144][195]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.12.04-21.24.00:440][305]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.00:441][305]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.00:441][305]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.00:446][305]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:411][864]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.04-21.24.27:415][864]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.04-21.24.27:415][864]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.04-21.24.27:415][864]LogWorldPartition: Display: GetPartitionedActors took 10 us (total: 396 us)
+[2023.12.04-21.24.27:416][864]LogWorldPartition: Display: GenerateStreaming took 540 us (total: 17 ms)
+[2023.12.04-21.24.27:416][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-21.24.27:416][864]PIE: New page: PIE session: ThirdPersonMap (Dec 4, 2023, 11:24:27 AM)
+[2023.12.04-21.24.27:447][864]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.04-21.24.27:467][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020003s)
+[2023.12.04-21.24.27:467][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.020041s)
+[2023.12.04-21.24.27:467][864]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-21.24.27:468][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-21.24.27:468][864]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.12.04-21.24.27:468][864]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.04-21.24.27:469][864]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.04-21.24.27:469][864]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.12.04-21.24.27:473][864]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.12.04-21.24.27:473][864]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 738 ms)
+[2023.12.04-21.24.27:473][864]LogPlayLevel: PIE: World Init took: (0.005814s)
+[2023.12.04-21.24.27:501][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.12.04-21.24.27:509][864]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.12.04-21.24.27:509][864]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-21.24.27:509][864]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-21.24.27:509][864]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-21.24.27:509][864]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-21.24.27:509][864]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.04-21.24.27:509][864]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-21.24.27:509][864]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.04-21.24.27:509][864]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-21.24.27:510][864]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-21.24.27:510][864]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-21.24.27:510][864]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-21.24.27:511][864]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-21.24.27:524][864]LogAudioMixer: Display: Using Audio Hardware Device DELL U3415W (NVIDIA High Definition Audio)
+[2023.12.04-21.24.27:525][864]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-21.24.27:525][864]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-21.24.27:525][864]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-21.24.27:525][864]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.12.04-21.24.27:525][864]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.12.04-21.24.27:527][864]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.12.04-21.24.27:528][864]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.12.04-21.24.27:528][864]LogInit: FAudioDevice initialized with ID 31.
+[2023.12.04-21.24.27:528][864]LogAudio: Display: Audio Device (ID: 31) registered with world 'ThirdPersonMap'.
+[2023.12.04-21.24.27:528][864]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2023.12.04-21.24.27:530][864]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.04-21.24.27:538][864]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.12.04-16.24.27
+[2023.12.04-21.24.27:538][864]LogWorld: Bringing up level for play took: 0.007275
+[2023.12.04-21.24.27:540][864]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.12.04-21.24.27:545][864]LogScript: Warning: Script Msg: The widget 'HealthWidget_C_0' was already added to the screen.
+[2023.12.04-21.24.27:545][864]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2023.12.04-21.24.27:545][864]PIE: Server logged in
+[2023.12.04-21.24.27:545][864]PIE: Play in editor total start time 0.134 seconds.
+[2023.12.04-21.24.27:809][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:809][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:810][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:810][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:811][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:811][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:812][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:812][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:813][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:813][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:814][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:814][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:826][865]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:827][865]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:827][865]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:828][865]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:828][865]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:828][865]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:828][865]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:829][865]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:829][865]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:830][865]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:830][865]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.27:830][865]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.34:100][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.24.36:447][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-21.24.36:447][707]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.04-21.24.36:448][707]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-21.24.36:448][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-21.24.36:449][707]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.12.04-21.24.36:452][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-21.24.36:457][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-21.24.36:485][707]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-21.24.36:485][707]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2023.12.04-21.24.36:485][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.12.04-21.24.36:487][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.12.04-21.24.36:490][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-21.24.36:495][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.12.04-21.24.36:555][708]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.12.04-21.24.56:459][207]BlueprintLog: New page: Compile HealthKit_2
+[2023.12.04-21.24.56:517][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.04-21.24.57:312][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-21.24.57:384][259]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/HealthKit_2
+[2023.12.04-21.24.57:385][259]LogSavePackage: Moving '../../../../../../Users/campbellt5/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/HealthKit_2A158C73140FED323A9D1508B9FFE595A.tmp' to '../../../../../../Users/campbellt5/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/ThirdPerson/Blueprints/HealthKit_2.uasset'
+[2023.12.04-21.24.57:392][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2.70 sec)
+[2023.12.04-21.24.57:398][259]AssetCheck: New page: Asset Save: HealthKit_2
+[2023.12.04-21.24.57:398][259]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/HealthKit_2.HealthKit_2
+[2023.12.04-21.25.00:931][557]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.04-21.25.00:934][557]LogWorldPartition: Display: GenerateStreaming started...
+[2023.12.04-21.25.00:934][557]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.12.04-21.25.00:934][557]LogWorldPartition: Display: GetPartitionedActors took 10 us (total: 406 us)
+[2023.12.04-21.25.00:935][557]LogWorldPartition: Display: GenerateStreaming took 660 us (total: 17 ms)
+[2023.12.04-21.25.00:935][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.04-21.25.00:935][557]PIE: New page: PIE session: ThirdPersonMap (Dec 4, 2023, 11:25:00 AM)
+[2023.12.04-21.25.00:935][557]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.04-21.25.00:957][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021087s)
+[2023.12.04-21.25.00:957][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.021119s)
+[2023.12.04-21.25.00:957][557]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-21.25.00:957][557]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.04-21.25.00:957][557]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.12.04-21.25.00:958][557]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.04-21.25.00:958][557]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.04-21.25.00:958][557]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.12.04-21.25.00:962][557]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.12.04-21.25.00:962][557]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 743 ms)
+[2023.12.04-21.25.00:962][557]LogPlayLevel: PIE: World Init took: (0.005785s)
+[2023.12.04-21.25.00:988][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.12.04-21.25.00:991][557]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.12.04-21.25.00:991][557]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.04-21.25.00:991][557]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.04-21.25.00:991][557]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.04-21.25.00:991][557]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.04-21.25.00:991][557]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.04-21.25.00:991][557]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.04-21.25.00:991][557]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.04-21.25.00:991][557]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.04-21.25.00:992][557]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.04-21.25.00:992][557]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.04-21.25.00:992][557]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.04-21.25.00:994][557]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.04-21.25.01:007][557]LogAudioMixer: Display: Using Audio Hardware Device DELL U3415W (NVIDIA High Definition Audio)
+[2023.12.04-21.25.01:008][557]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.04-21.25.01:008][557]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.04-21.25.01:008][557]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.04-21.25.01:008][557]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.12.04-21.25.01:008][557]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.12.04-21.25.01:010][557]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.12.04-21.25.01:010][557]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.12.04-21.25.01:010][557]LogInit: FAudioDevice initialized with ID 32.
+[2023.12.04-21.25.01:010][557]LogAudio: Display: Audio Device (ID: 32) registered with world 'ThirdPersonMap'.
+[2023.12.04-21.25.01:010][557]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2023.12.04-21.25.01:012][557]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.04-21.25.01:020][557]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.12.04-16.25.01
+[2023.12.04-21.25.01:020][557]LogWorld: Bringing up level for play took: 0.007657
+[2023.12.04-21.25.01:022][557]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.12.04-21.25.01:028][557]LogScript: Warning: Script Msg: The widget 'HealthWidget_C_0' was already added to the screen.
+[2023.12.04-21.25.01:028][557]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2023.12.04-21.25.01:028][557]PIE: Server logged in
+[2023.12.04-21.25.01:028][557]PIE: Play in editor total start time 0.097 seconds.
+[2023.12.04-21.25.01:218][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:218][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:219][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:219][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:220][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:220][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:221][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:221][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:221][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:222][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:222][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:223][557]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:236][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:237][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:237][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:238][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:238][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:239][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:239][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:240][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:240][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:241][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:241][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.01:242][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.05:590][969]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.12.04-21.25.05:637][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-21.25.05:638][971]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.04-21.25.05:638][971]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-21.25.05:639][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-21.25.05:639][971]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.12.04-21.25.05:642][971]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.04-21.25.05:647][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-21.25.05:675][971]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.04-21.25.05:675][971]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2023.12.04-21.25.05:675][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.12.04-21.25.05:677][971]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.12.04-21.25.05:680][971]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.04-21.25.05:684][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.12.04-21.25.05:744][972]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.12.04-21.25.31:566][ 54]LogSlate: Window 'HealthKit_2' being destroyed
+[2023.12.04-21.25.31:572][ 54]LogSlate: Window 'HealthKit_2' being destroyed
+[2023.12.04-21.25.31:576][ 54]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.12.04-21.25.31:576][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.04-21.25.39:705][705]LogContentBrowser: Attempting asset rename: HealthKit_2 -> Coin
+[2023.12.04-21.25.39:751][705]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Coin.SKEL_Coin_C' ref from Metadata '/Game/ThirdPerson/Blueprints/HealthKit_2.PackageMetaData'
+[2023.12.04-21.25.39:751][705]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Coin.Coin_C' ref from Metadata '/Game/ThirdPerson/Blueprints/HealthKit_2.PackageMetaData'
+[2023.12.04-21.25.39:751][705]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Coin.Coin_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/HealthKit_2.PackageMetaData'
+[2023.12.04-21.25.39:751][705]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Coin.SKEL_Coin_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/HealthKit_2.PackageMetaData'
+[2023.12.04-21.25.39:751][705]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Coin.SKEL_Coin_C:BndEvt__HealthKit_Box_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/ThirdPerson/Blueprints/HealthKit_2.PackageMetaData'
+[2023.12.04-21.25.39:751][705]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Coin.SKEL_Coin_C:ReceiveTick' ref from Metadata '/Game/ThirdPerson/Blueprints/HealthKit_2.PackageMetaData'
+[2023.12.04-21.25.39:751][705]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Coin.SKEL_Coin_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPerson/Blueprints/HealthKit_2.PackageMetaData'
+[2023.12.04-21.25.39:751][705]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/Coin.SKEL_Coin_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/HealthKit_2.PackageMetaData'
+[2023.12.04-21.25.39:756][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-21.25.39:799][705]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Coin
+[2023.12.04-21.25.39:799][705]LogSavePackage: Moving '../../../../../../Users/campbellt5/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/Coin8B2D792A4E80277F69B527BDAA20DBC8.tmp' to '../../../../../../Users/campbellt5/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/ThirdPerson/Blueprints/Coin.uasset'
+[2023.12.04-21.25.39:813][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 2.75 sec)
+[2023.12.04-21.25.39:863][705]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.LevelSequenceActor_UAID_A4BB6D4C2323A1C201_1408439370 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/J9/A0DLXKL38D40KEOC8BV9O9.PackageMetaData in its package
+[2023.12.04-21.25.39:864][705]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D4C2323A0C201_1327465191 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RG/1WG6XN1CK2XGO2HMVYO6H1.PackageMetaData in its package
+[2023.12.04-21.25.39:864][705]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4BB6D4C2323A0C201_1284358186 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/XG/QX5WCVP8II4MWME0PFQB9B.PackageMetaData in its package
+[2023.12.04-21.25.39:864][705]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TriggerBox_UAID_A4BB6D4C2323A1C201_1100903369 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/13/5NHUX8G0XS6IT2VEBACQA2.PackageMetaData in its package
+[2023.12.04-21.25.39:868][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.12.04-21.25.39:901][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.04-21.25.39:927][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.12.04-21.25.39:933][705]AssetCheck: New page: Asset Save: Coin
+[2023.12.04-21.25.39:933][705]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Coin.Coin
+[2023.12.04-21.25.39:935][705]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.04-21.25.39:969][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.12.04-21.25.58:585][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.04-21.25.58:636][ 98]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/RS/O19UV22VO0X5PELLKL160T
+[2023.12.04-21.25.58:636][ 98]LogSavePackage: Moving '../../../../../../Users/campbellt5/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Saved/O19UV22VO0X5PELLKL160T3E5DD1B9452B50CB68429BBB7FCE4B1B.tmp' to '../../../../../../Users/campbellt5/OneDrive - East Tennessee State University/Fall2023/DIGM1500-GameDesign/Unreal/Github/FinalProjRooftop/Greyblock/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/RS/O19UV22VO0X5PELLKL160T.uasset'
+[2023.12.04-21.25.58:645][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.81 sec)
+[2023.12.04-21.25.58:650][ 98]AssetCheck: New page: Asset Save: HealthKit_2_C_UAID_A4BB6D4C2323A3C201_1226629728
+[2023.12.04-21.25.58:651][ 98]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Coin.Coin_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.HealthKit_2_C_UAID_A4BB6D4C2323A3C201_1226629728
