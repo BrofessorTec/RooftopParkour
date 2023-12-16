@@ -116,3 +116,7 @@ Greyblock/Saved/Logs/Greyblock.log
 Greyblock/Saved/Config/CrashReportClient/UECC-Windows-590364CA42CF2BBA5711ABA646A97E39/CrashReportClient.ini
 Greyblock/Saved/Logs/Greyblock.log
 *.log
+Greyblock/Intermediate/CachedAssetRegistry.bin
+Greyblock/Saved/Config/CrashReportClient/UECC-Windows-0427166345A3CE1855F53297CBD4CC1C/CrashReportClient.ini
+Greyblock/Saved/Config/WindowsEditor/Engine.ini
+Greyblock/Saved/Logs/Greyblock.log
